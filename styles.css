@@ -1,0 +1,39 @@
+/* 设置整体字体和背景 */
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    margin: 0;
+}
+
+/* 标题样式 */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* 段落样式 */
+p {
+    margin-bottom: 1em;
+    text-align: justify;
+}
+
+/* 链接样式 */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* 页脚样式 */
+footer {
+    font-size: 0.8em;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin-top: 20px;
+}
